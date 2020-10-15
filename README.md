@@ -5,7 +5,7 @@ Document about repository and DLG member management rules in this organization.
 
 ## QA
 
-誤植や不備に気づいた場合、または疑問点がある場合は、**本リポジトリのISSUEにコメントを登録** してください。
+誤植や不備に気づいた場合、または疑問点がある場合は、**[本リポジトリのISSUE](https://github.com/data-learning-guild/MNG-RULE-IN-THIS-ORG/issues)にコメントを登録** してください。
 
 ---
 
@@ -16,6 +16,10 @@ Document about repository and DLG member management rules in this organization.
 3. **Organization Ownerが** リポジトリを作成
 4. **Organization Ownerが** 新規プロジェクト参加メンバーをリポジトリのコラボレータとして招待（チームリーダーにリポジトリの管理者権限を付与）
 5. （必要ならば）**Organization Ownerが** Organizationに当該プロジェクトの為のProjectBoardを作成し、プロジェクトメンバーをコラボレータとして招待（チームリーダーにProjectBoardの管理者権限を付与）
+
+<br>
+
+- **Organization Owner: @arrowkato, @greenmidori, @sota0121**
 
 ## プロジェクト運用時の手順
 
@@ -28,8 +32,11 @@ Document about repository and DLG member management rules in this organization.
 3. Organizationで管理しているリポジトリをFork > Mainブランチから別のブランチを切る > 修正＋commit＋push > PullReq to Mainブランチ on 元のリポジトリ
 4. PullReqを作成したら、コードの修正に関する議論はPulReq上で実施してください
 
+<br>
 （ブランチ命名規則等細かい部分はチーム内で話し合ってください）
+<br>
 （どのブランチモデルを採用するかはチーム内で話し合ってください）
+<br>
 
 ### タスク管理
 
@@ -39,6 +46,8 @@ Document about repository and DLG member management rules in this organization.
 ### ドキュメント管理
 
 1. リポジトリのWikiやソース（READMEなど）で管理してください
+
+<br>
 ※一箇所に集めたほうが管理がしやすいからです
 
 
