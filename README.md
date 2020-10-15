@@ -3,6 +3,12 @@ Document about repository and DLG member management rules in this organization.
 
 本リポジトリは、data-learning-guild organization における（DLG内のプロジェクトの）リポジトリの管理ルールを記述したドキュメントをまとめます。
 
+## QA
+
+誤植や不備に気づいた場合、または疑問点がある場合は、**本リポジトリのISSUEにコメントを登録** してください。
+
+---
+
 ## 新規プロジェクト立ち上げ時の全体の流れ
 
 1. **プロジェクトの担当者が** 新規プロジェクトに対応するリポジトリ（複数可）作成を依頼 to Organization Owner
